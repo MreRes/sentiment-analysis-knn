@@ -1,0 +1,5 @@
+Tutorial Menggunakan Sentimen Analisis Menggunakan KNN
+
+1. Install Anaconda Navigator
+2. Install Jupyter Notebooks melalui Anaconda Navigator
+3. Jalankan Program Melalui Jupyter Notebooks
